@@ -1,0 +1,19 @@
+Project Title: Adaptive Noise Cancellation using FPGA and DSP Filter
+
+Problem Statement:
+Design and implement a system capable of removing unwanted noise from signals using adaptive filtering on FPGA hardware.
+
+Tools Used:
+- Verilog/SystemVerilog
+- Xilinx/Intel FPGA board (e.g., DE10-Lite)
+- MATLAB or Python for simulation
+- Quartus or Vivado for synthesis
+
+Workflow:
+1. Simulate LMS filter using Python/MATLAB
+2. Design adaptive filter architecture in Verilog
+3. Synthesize and deploy to FPGA
+4. Test using signal generator and oscilloscope
+
+Conclusion:
+The integration of DSP algorithms like LMS with FPGA enables high-speed, real-time noise cancellation useful in audio, medical, and communication applications.

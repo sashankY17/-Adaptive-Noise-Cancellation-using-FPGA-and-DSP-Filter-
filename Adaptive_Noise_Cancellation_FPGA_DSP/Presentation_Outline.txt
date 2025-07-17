@@ -1,0 +1,10 @@
+Slide 1: Title - Adaptive Noise Cancellation using FPGA and DSP Filter
+Slide 2: Introduction to Noise Cancellation
+Slide 3: Need for Adaptive Filtering
+Slide 4: LMS Algorithm Overview
+Slide 5: FPGA Architecture and Benefits
+Slide 6: System Architecture Block Diagram
+Slide 7: Verilog Implementation Overview
+Slide 8: Simulation Results
+Slide 9: Applications
+Slide 10: Conclusion

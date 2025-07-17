@@ -1,0 +1,4 @@
+Adaptive Noise Cancellation using FPGA and DSP Filter
+
+Abstract:
+Adaptive Noise Cancellation (ANC) is a signal processing method used to remove unwanted noise from a signal using an adaptive filter. This project implements ANC using a combination of Digital Signal Processing (DSP) and Field Programmable Gate Array (FPGA) technologies. The adaptive filter (typically LMS-based) is programmed in hardware to dynamically minimize the error between the primary signal and a reference noise signal. FPGA platforms enable real-time signal handling due to their parallel processing capabilities, making them suitable for such time-critical tasks.
